@@ -1,0 +1,30 @@
+
+
+
+        h1{
+            color: #0eb4b4;
+            text-align: center;
+        }
+      p{
+          color: goldenrod;
+      }
+      #second_paragraph{
+       color: #b40e45;
+      }
+
+      .common_div{
+        border: 2px solid black;
+      }
+
+      .last_div{
+          border: 2px solid red;
+      }
+
+      .second_paragraph{
+          margin-top: 40px;
+          padding: 20px;
+      }
+
+      span{
+          color: black;
+      }
